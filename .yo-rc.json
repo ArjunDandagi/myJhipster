@@ -1,0 +1,42 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "io.github.arjundandagi",
+      "nativeLanguage": "hi"
+    },
+    "jhipsterVersion": "6.10.3",
+    "applicationType": "monolith",
+    "baseName": "HelloWorld",
+    "packageName": "io.github.arjundandagi",
+    "packageFolder": "io/github/arjundandagi",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "no",
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": false,
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "ZTYzYzFjYjBjMDNhOTUxMjAyYjMyMzYyMGEwYTBmZmEyOWI3ZmJkODBlNzQ3YmI4ZWIzM2VmMmJlOWZjNGNjNTY4YjdkOTM2YWM0Njg2N2E3YTAwMGMwODgzYzc4MTYyZDMxNmRiYzA2MTQ2YmE2OGM5YjM3YjVhZGMyMjI4MWQ=",
+    "embeddableLaunchScript": false,
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "clientFramework": "react",
+    "clientTheme": "solar",
+    "clientThemeVariant": "dark",
+    "creationTimestamp": 1601352811973,
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": true,
+    "nativeLanguage": "hi",
+    "languages": ["hi"],
+    "blueprints": []
+  }
+}
